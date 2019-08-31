@@ -11,7 +11,7 @@ STEPS to use this code
 1) Extract zipfile.
 2) All our datasets are included in the folder (dat).
 3) **Run the main source file (code_DT_v1).
-4) The results will be reported automatically in file named by (report.csv).
+4) The results will be reported automatically in a named file (report.csv).
 5) The Majority and Weighted majority functions for decision fusion, are included in (functions.R).
 6) **Finally, you should run (analyze_report.R) to analyze the results from (report.csv).
 
